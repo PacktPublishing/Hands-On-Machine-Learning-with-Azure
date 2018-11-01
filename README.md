@@ -34,6 +34,7 @@ vision_analyze_url = vision_base_url + "analyze"
 ```
 
 **Following is what you need for this book:**
+
 If you are a data scientist or developer familiar with Azure ML and cognitive services and want to create smart models and make sense of data in the cloud, this book is for you. You’ll also find this book useful if you want to bring powerful machine learning services into your cloud applications. Some experience with data manipulation and processing, using languages like SQL, Python, and R, will aid in understanding the concepts covered in this book
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
