@@ -10,7 +10,7 @@ This is the code repository for [Hands-On Machine Learning with Azure](https://w
 Implementing Machine learning (ML) and Artificial Intelligence (AI) in the cloud had not been possible earlier due to the lack of processing power and storage. However, Azure has created ML and AI services that are easy to implement in the cloud. Hands-On Machine Learning with Azure teaches you how to perform advanced ML projects in the cloud in a cost-effective way.
 The book begins by covering the benefits of ML and AI in the cloud. You will then explore Microsoft’s Team Data Science Process to establish a repeatable process for successful AI development and implementation. You will also gain an understanding of AI technologies available in Azure and the Cognitive Services APIs to integrate them into bot applications. This book lets you explore prebuilt templates with Azure Machine Learning Studio and build a model using canned algorithms that can be deployed as web services. The book then takes you through a preconfigured series of virtual machines in Azure targeted at AI development scenarios. You will get to grips with the ML Server and its capabilities in SQL and HDInsight. In the concluding chapters, you’ll integrate patterns with other non-AI services in Azure.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Discover the benefits of leveraging the cloud for ML and AI
 * Use Cognitive Services APIs to build intelligent bots
 * Build a model using canned algorithms from Microsoft and deploy it as a web service
@@ -48,12 +48,12 @@ With the following software and hardware list you can run all code files present
 
 
 
-### Related products <Other books you may enjoy>
+### Related products
 * Stream Analytics with Microsoft Azure [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/stream-analytics-microsoft-azure?utm_source=github&utm_medium=repository&utm_campaign=9781788395908) [[Amazon]](https://www.amazon.com/dp/1788395905)
 
 * Hands-On Data Warehousing with Azure Data Factory [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1789137624)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Dr. Thomas K Abraham** is a cloud solution architect (advanced analytics and AI) at Microsoft in the South Central Region of the USA. Since January 2016, he's been assisting organizations in leveraging technologies such as SQL, Spark, Hadoop, NoSQL, BI, and AI on Azure. Prior to that, Thomas spent 10 years in Ecolab, where he designed algorithms for IoT devices and built solutions for anomaly detection. In the oil and gas division, he designed and built customer-facing analytics solutions for multiple super majors. His work was focused on preventing equipment failure by modeling corrosion, scale, and other stresses. He has a PhD in Chemical Engineering from The Ohio State University in 2005. His thesis focused on the use of nonlinear optimization with reaction models.
 
 **Parashar Shah** is a Senior Program Manager in the Azure Machine Learning platform team.Currently, he works on making Azure Machine Learning services the best place to do e2e machine learning for building custom AI solutions using big data. Previously at Microsoft, he has been a Data Scientist and a Data Solutions Architect in various Cloud and AI teams.
