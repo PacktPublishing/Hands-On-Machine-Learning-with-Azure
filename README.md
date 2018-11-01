@@ -67,7 +67,7 @@ Prior to joining Microsoft, Parashar worked at Nokia Networks as a Solutions Arc
 
 
 ## Other books by the authors
-* [Advanced Analytics with R and Tableau](https://www.packtpub.com/big-data-and-business-intelligence/stream-analytics-microsoft-azure?utm_source=github&utm_medium=repository&utm_campaign=9781786460110)
+* [Advanced Analytics with R and Tableau](https://www.packtpub.com/big-data-and-business-intelligence/advanced-analytics-r-and-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781786460110)
 
 
 ### Suggestions and Feedback
